@@ -1,0 +1,12 @@
+{
+  "name": "speakcad-slicer",
+  "displayName": "SpeakCAD Slicer",
+  "version": "1.0.2",
+  "description": "Slice an STL or 3MF for your 3D printer from the chat: Claude looks up your printer's OrcaSlicer profile (380+ printers, 60+ brands), sets layer height, material, infill and supports, and hands you a link that opens the SpeakCAD online slicer with everything selected. Drop the file, download G-code.",
+  "author": { "name": "SpeakCAD", "url": "https://speakcad.com" },
+  "homepage": "https://speakcad.com/guides/slice-from-chatgpt-or-claude",
+  "privacyPolicyUrl": "https://speakcad.com/privacy",
+  "icon": ".claude-plugin/icon.svg",
+  "license": "MIT",
+  "keywords": ["3d printing", "slicer", "stl", "gcode", "3mf", "bambu lab", "prusa", "creality", "orcaslicer"]
+}
